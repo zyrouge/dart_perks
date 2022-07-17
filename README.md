@@ -35,7 +35,7 @@
 ```dart
 import 'package:perks/perks.dart';
 
-final PerksNameValueBox<String> database = PerksNameValueBox<dynamic>(
+final PerksNameValueBox<String> database = PerksNameValueBox<String>(
     adapter: PerksFileAdapter('data.db'),
 );
 
