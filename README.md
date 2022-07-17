@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/zyrouge/dart_perks/blob/main/media/banner.png?raw=true">
+    <img src="./media/banner.png?raw=true">
 </div>
 
 # Perks
@@ -47,6 +47,8 @@ await database.set('hello', 'world');
 print('Value of hello: ${await database.get('hello')}');
 ```
 
-# LICENSE
+Check out [./example] and [./test] for more examples.
+
+# License
 
 [MIT](./LICENSE)
