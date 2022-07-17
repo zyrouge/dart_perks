@@ -47,7 +47,7 @@ await database.set('hello', 'world');
 print('Value of hello: ${await database.get('hello')}');
 ```
 
-Check out [./example](./example) and [./test](./test) for more examples.
+Check out [example](./example) and [test](./test) for more examples.
 
 # License
 

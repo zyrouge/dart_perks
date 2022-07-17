@@ -2,9 +2,15 @@ name: Tests
 
 on:
     push:
+        paths:
+            - "lib/**"
+            - "test/**"
         branches:
             - main
     pull_request:
+        paths:
+            - "lib/**"
+            - "test/**"
         branches:
             - main
 
