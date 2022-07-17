@@ -1,6 +1,7 @@
 name: perks
-description: A sample command-line application.
+description: "📦 Perks is a simple-to-use persistent data storage."
 version: 1.0.0
+repository: https://github.com/zyrouge/dart_perks
 
 environment:
     sdk: ">=2.18.0-272.0.dev <3.0.0"

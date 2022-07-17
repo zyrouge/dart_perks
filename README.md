@@ -1,10 +1,15 @@
+<div align="center">
+    <img src="https://github.com/zyrouge/dart_perks/blob/main/media/banner.png?raw=true">
+</div>
+
 # Perks
 
-Perks is a simple-to-use persistent/non-persistent data storage.
+📦 Perks is a simple-to-use persistent data storage.
 
 ## Links
 
 -   [GitHub](https://github.com/zyrouge/dart_perks)
+-   [Pub.dev](https://pub.dev/packages/perks)
 -   [Documentation](https://pub.dev/documentation/perks/latest/)
 
 ## Usage
