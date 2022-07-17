@@ -1,5 +1,5 @@
 name: perks
-description: "📦 Perks is a simple-to-use persistent data storage."
+description: Perks is a simple-to-use persistent data storage.
 version: 1.0.0
 repository: https://github.com/zyrouge/dart_perks
 

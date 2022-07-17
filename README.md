@@ -7,6 +7,7 @@
 📦 Perks is a simple-to-use persistent data storage.
 
 [![pub package](https://img.shields.io/pub/v/perks.svg)](https://pub.dev/packages/perks)
+[![License](https://img.shields.io/github/license/zyrouge/dart_perks)](./LICENSE)
 [![Tests](https://github.com/zyrouge/dart_perks/actions/workflows/test.yml/badge.svg)](https://github.com/zyrouge/dart_perks/actions/workflows/test.yml)
 
 ## Links
